@@ -1,0 +1,1854 @@
+----
+Levels: [1 2 4 7 9 8]
+Slices: [1 2 4 7 8]
+NewSli: []
+----
+----
+Levels: [43 44 47 49 49]
+Slices: [43 44 47 49]
+NewSli: []
+----
+----
+Levels: [6 7 9 11 13 14 18]
+Slices: [6 7 9 11 13 18]
+NewSli: [6 7 9 11 13 14]
+----
+true
+----
+Levels: [34 35 38 39 42 48]
+Slices: [34 35 38 39 48]
+NewSli: [34 35 38 39 42]
+----
+true
+----
+Levels: [73 76 79 80 82 85 83 86]
+Slices: [73 76 79 80 82 83 86]
+NewSli: []
+----
+----
+Levels: [64 67 69 66 69 68]
+Slices: [64 67 66 69 68]
+NewSli: [64 67 69 69 68]
+false
+----
+Levels: [43 45 48 50 49 49]
+Slices: [43 45 48 49 49]
+NewSli: [43 45 48 50 49]
+false
+----
+Levels: [77 78 81 78 81 83 87]
+Slices: [77 78 78 81 83 87]
+NewSli: [77 78 81 81 83 87]
+false
+----
+Levels: [3 4 7 8 6 12]
+Slices: [3 4 7 6 12]
+NewSli: [3 4 7 8 12]
+false
+----
+Levels: [73 75 75 76 77 80]
+Slices: [73 75 76 77 80]
+NewSli: []
+----
+----
+Levels: [86 89 90 93 93 95 94]
+Slices: [86 89 90 93 95 94]
+NewSli: [86 89 90 93 95 94]
+false
+----
+Levels: [13 16 17 20 20 20]
+Slices: [13 16 17 20 20]
+NewSli: [13 16 17 20 20]
+false
+----
+Levels: [55 57 57 60 64]
+Slices: [55 57 60 64]
+NewSli: [55 57 60 64]
+false
+----
+Levels: [1 3 6 6 8 11 17]
+Slices: [1 3 6 8 11 17]
+NewSli: [1 3 6 8 11 17]
+false
+----
+Levels: [41 43 46 50 53]
+Slices: [41 43 50 53]
+NewSli: [41 43 46 53]
+false
+----
+Levels: [47 50 54 57 58 61 63 60]
+Slices: [47 54 57 58 61 63 60]
+NewSli: [47 50 57 58 61 63 60]
+false
+----
+Levels: [33 34 35 36 38 40 44 44]
+Slices: [33 34 35 36 38 44 44]
+NewSli: [33 34 35 36 38 40 44]
+false
+----
+Levels: [61 63 67 69 71 73 77]
+Slices: [61 67 69 71 73 77]
+NewSli: [61 63 69 71 73 77]
+false
+----
+Levels: [68 71 74 75 78 82 89]
+Slices: [68 71 74 75 82 89]
+NewSli: [68 71 74 75 78 89]
+false
+----
+Levels: [5 6 12 14 16 17 18]
+Slices: [5 12 14 16 17 18]
+NewSli: [5 6 14 16 17 18]
+false
+----
+Levels: [30 31 36 37 38 37]
+Slices: [30 36 37 38 37]
+NewSli: [30 31 37 38 37]
+false
+----
+Levels: [57 60 67 69 71 73 73]
+Slices: [57 67 69 71 73 73]
+NewSli: [57 60 69 71 73 73]
+false
+----
+Levels: [47 50 52 59 61 62 65 69]
+Slices: [47 50 59 61 62 65 69]
+NewSli: [47 50 52 61 62 65 69]
+false
+----
+Levels: [8 9 11 16 18 25]
+Slices: [8 9 16 18 25]
+NewSli: [8 9 11 18 25]
+false
+----
+Levels: [6 4 7 8 10 11]
+Slices: [6 7 8 10 11]
+NewSli: []
+----
+----
+Levels: [30 27 29 32 31]
+Slices: [30 29 32 31]
+NewSli: [30 27 32 31]
+false
+----
+Levels: [33 31 34 35 35]
+Slices: [33 34 35 35]
+NewSli: [33 31 35 35]
+false
+----
+Levels: [53 50 52 55 56 60]
+Slices: [53 52 55 56 60]
+NewSli: [53 50 55 56 60]
+false
+----
+Levels: [54 51 53 56 63]
+Slices: [54 53 56 63]
+NewSli: [54 51 56 63]
+false
+----
+Levels: [33 31 33 34 31 33]
+Slices: [33 33 34 31 33]
+NewSli: [33 31 34 31 33]
+false
+----
+Levels: [44 42 41 43 46 48 49 48]
+Slices: [44 42 43 46 48 49 48]
+NewSli: [44 42 41 46 48 49 48]
+false
+----
+Levels: [33 32 33 31 34 34]
+Slices: [33 33 31 34 34]
+NewSli: [33 32 31 34 34]
+false
+----
+Levels: [48 45 43 46 50]
+Slices: [48 45 46 50]
+NewSli: [48 45 43 50]
+false
+----
+Levels: [91 90 89 90 91 96]
+Slices: [91 90 90 91 96]
+NewSli: [91 90 89 91 96]
+false
+----
+Levels: [39 36 39 42 42 43 46 48]
+Slices: [39 39 42 42 43 46 48]
+NewSli: [39 36 42 42 43 46 48]
+false
+----
+Levels: [59 58 59 61 64 64 63]
+Slices: [59 59 61 64 64 63]
+NewSli: [59 58 61 64 64 63]
+false
+----
+Levels: [68 65 68 68 71 71]
+Slices: [68 68 68 71 71]
+NewSli: [68 65 68 71 71]
+false
+----
+Levels: [40 38 38 39 43]
+Slices: [40 38 39 43]
+NewSli: [40 38 39 43]
+false
+----
+Levels: [54 53 53 55 57 62]
+Slices: [54 53 55 57 62]
+NewSli: [54 53 55 57 62]
+false
+----
+Levels: [45 44 47 51 53]
+Slices: [45 47 51 53]
+NewSli: [45 44 51 53]
+false
+----
+Levels: [42 41 43 45 46 50 53 50]
+Slices: [42 43 45 46 50 53 50]
+NewSli: [42 41 45 46 50 53 50]
+false
+----
+Levels: [55 54 56 59 60 63 67 67]
+Slices: [55 56 59 60 63 67 67]
+NewSli: [55 54 59 60 63 67 67]
+false
+----
+Levels: [81 79 80 84 87 91]
+Slices: [81 80 84 87 91]
+NewSli: [81 79 84 87 91]
+false
+----
+Levels: [75 73 74 78 79 81 87]
+Slices: [75 74 78 79 81 87]
+NewSli: [75 73 78 79 81 87]
+false
+----
+Levels: [22 21 23 30 33 34]
+Slices: [22 23 30 33 34]
+NewSli: [22 21 30 33 34]
+false
+----
+Levels: [46 44 50 51 52 51]
+Slices: [46 50 51 52 51]
+NewSli: [46 44 51 52 51]
+false
+----
+Levels: [5 3 8 9 11 12 14 14]
+Slices: [5 8 9 11 12 14 14]
+NewSli: [5 3 9 11 12 14 14]
+false
+----
+Levels: [88 86 88 94 98]
+Slices: [88 88 94 98]
+NewSli: [88 86 94 98]
+false
+----
+Levels: [13 10 12 13 14 19 24]
+Slices: [13 12 13 14 19 24]
+NewSli: [13 10 13 14 19 24]
+false
+----
+Levels: [59 59 62 64 65 67]
+Slices: [59 62 64 65 67]
+NewSli: []
+----
+----
+Levels: [48 48 50 52 54 52]
+Slices: [48 50 52 54 52]
+NewSli: [48 50 52 54 52]
+false
+----
+Levels: [19 19 21 22 22]
+Slices: [19 21 22 22]
+NewSli: [19 21 22 22]
+false
+----
+Levels: [91 91 92 93 97]
+Slices: [91 92 93 97]
+NewSli: [91 92 93 97]
+false
+----
+Levels: [84 84 87 88 91 96]
+Slices: [84 87 88 91 96]
+NewSli: [84 87 88 91 96]
+false
+----
+Levels: [11 11 8 9 12 13 15]
+Slices: [11 8 9 12 13 15]
+NewSli: [11 8 9 12 13 15]
+false
+----
+Levels: [42 42 43 45 44 43]
+Slices: [42 43 45 44 43]
+NewSli: [42 43 45 44 43]
+false
+----
+Levels: [95 95 96 93 93]
+Slices: [95 96 93 93]
+NewSli: [95 96 93 93]
+false
+----
+Levels: [86 86 88 89 86 88 89 93]
+Slices: [86 88 89 86 88 89 93]
+NewSli: [86 88 89 86 88 89 93]
+false
+----
+Levels: [33 33 34 35 34 35 40]
+Slices: [33 34 35 34 35 40]
+NewSli: [33 34 35 34 35 40]
+false
+----
+Levels: [20 20 22 23 24 24 27]
+Slices: [20 22 23 24 24 27]
+NewSli: [20 22 23 24 24 27]
+false
+----
+Levels: [66 66 69 69 68]
+Slices: [66 69 69 68]
+NewSli: [66 69 69 68]
+false
+----
+Levels: [58 58 61 64 64 65 66 66]
+Slices: [58 61 64 64 65 66 66]
+NewSli: [58 61 64 64 65 66 66]
+false
+----
+Levels: [10 10 12 12 16]
+Slices: [10 12 12 16]
+NewSli: [10 12 12 16]
+false
+----
+Levels: [48 48 48 51 52 59]
+Slices: [48 48 51 52 59]
+NewSli: [48 48 51 52 59]
+false
+----
+Levels: [43 43 46 47 51 52]
+Slices: [43 46 47 51 52]
+NewSli: [43 46 47 51 52]
+false
+----
+Levels: [88 88 92 94 95 96 95]
+Slices: [88 92 94 95 96 95]
+NewSli: [88 92 94 95 96 95]
+false
+----
+Levels: [37 37 38 41 42 46 46]
+Slices: [37 38 41 42 46 46]
+NewSli: [37 38 41 42 46 46]
+false
+----
+Levels: [10 10 11 15 19]
+Slices: [10 11 15 19]
+NewSli: [10 11 15 19]
+false
+----
+Levels: [25 25 27 31 37]
+Slices: [25 27 31 37]
+NewSli: [25 27 31 37]
+false
+----
+Levels: [59 59 62 68 70]
+Slices: [59 62 68 70]
+NewSli: [59 62 68 70]
+false
+----
+Levels: [29 29 32 37 38 36]
+Slices: [29 32 37 38 36]
+NewSli: [29 32 37 38 36]
+false
+----
+Levels: [63 63 66 69 76 76]
+Slices: [63 66 69 76 76]
+NewSli: [63 66 69 76 76]
+false
+----
+Levels: [67 67 70 77 81]
+Slices: [67 70 77 81]
+NewSli: [67 70 77 81]
+false
+----
+Levels: [14 14 16 22 24 31]
+Slices: [14 16 22 24 31]
+NewSli: [14 16 22 24 31]
+false
+----
+Levels: [15 19 21 23 26 27 28]
+Slices: [19 21 23 26 27 28]
+NewSli: []
+----
+----
+Levels: [61 65 66 68 69 70 73 71]
+Slices: [65 66 68 69 70 73 71]
+NewSli: [61 66 68 69 70 73 71]
+false
+----
+Levels: [85 89 92 95 97 97]
+Slices: [89 92 95 97 97]
+NewSli: [85 92 95 97 97]
+false
+----
+Levels: [81 85 88 90 93 94 98]
+Slices: [85 88 90 93 94 98]
+NewSli: [81 88 90 93 94 98]
+false
+----
+Levels: [69 73 75 77 80 83 84 90]
+Slices: [73 75 77 80 83 84 90]
+NewSli: [69 75 77 80 83 84 90]
+false
+----
+Levels: [59 63 65 62 63]
+Slices: [63 65 62 63]
+NewSli: [59 65 62 63]
+false
+----
+Levels: [56 60 57 60 62 61]
+Slices: [60 57 60 62 61]
+NewSli: [56 57 60 62 61]
+false
+----
+Levels: [92 96 97 95 95]
+Slices: [96 97 95 95]
+NewSli: [92 97 95 95]
+false
+----
+Levels: [77 81 83 81 82 86]
+Slices: [81 83 81 82 86]
+NewSli: [77 83 81 82 86]
+false
+----
+Levels: [43 47 45 47 49 51 52 59]
+Slices: [47 45 47 49 51 52 59]
+NewSli: [43 45 47 49 51 52 59]
+false
+----
+Levels: [64 68 68 69 70]
+Slices: [68 68 69 70]
+NewSli: [64 68 69 70]
+false
+----
+Levels: [86 90 90 91 94 96 97 94]
+Slices: [90 90 91 94 96 97 94]
+NewSli: [86 90 91 94 96 97 94]
+false
+----
+Levels: [2 6 8 8 8]
+Slices: [6 8 8 8]
+NewSli: [2 8 8 8]
+false
+----
+Levels: [24 28 31 31 35]
+Slices: [28 31 31 35]
+NewSli: [24 31 31 35]
+false
+----
+Levels: [46 50 51 54 55 55 60]
+Slices: [50 51 54 55 55 60]
+NewSli: [46 51 54 55 55 60]
+false
+----
+Levels: [4 8 9 11 15 16]
+Slices: [8 9 11 15 16]
+NewSli: [4 9 11 15 16]
+false
+----
+Levels: [30 34 37 40 43 47 44]
+Slices: [34 37 40 43 47 44]
+NewSli: [30 37 40 43 47 44]
+false
+----
+Levels: [60 64 68 71 73 74 77 77]
+Slices: [64 68 71 73 74 77 77]
+NewSli: [60 68 71 73 74 77 77]
+false
+----
+Levels: [82 86 90 93 97]
+Slices: [86 90 93 97]
+NewSli: [82 90 93 97]
+false
+----
+Levels: [64 68 72 73 74 80]
+Slices: [68 72 73 74 80]
+NewSli: [64 72 73 74 80]
+false
+----
+Levels: [15 19 21 22 27 29 31]
+Slices: [19 21 22 27 29 31]
+NewSli: [15 21 22 27 29 31]
+false
+----
+Levels: [17 21 23 26 33 36 38 37]
+Slices: [21 23 26 33 36 38 37]
+NewSli: [17 23 26 33 36 38 37]
+false
+----
+Levels: [79 83 85 92 93 95 95]
+Slices: [83 85 92 93 95 95]
+NewSli: [79 85 92 93 95 95]
+false
+----
+Levels: [35 39 46 47 51]
+Slices: [39 46 47 51]
+NewSli: [35 46 47 51]
+false
+----
+Levels: [1 5 6 13 20]
+Slices: [5 6 13 20]
+NewSli: [1 6 13 20]
+false
+----
+Levels: [71 76 78 81 82 84]
+Slices: [76 78 81 82 84]
+NewSli: []
+----
+----
+Levels: [33 38 41 42 43 41]
+Slices: [38 41 42 43 41]
+NewSli: [33 41 42 43 41]
+false
+----
+Levels: [75 82 85 88 91 92 94 94]
+Slices: [82 85 88 91 92 94 94]
+NewSli: [75 85 88 91 92 94 94]
+false
+----
+Levels: [72 79 82 85 86 89 90 94]
+Slices: [79 82 85 86 89 90 94]
+NewSli: [72 82 85 86 89 90 94]
+false
+----
+Levels: [64 70 71 74 76 79 85]
+Slices: [70 71 74 76 79 85]
+NewSli: [64 71 74 76 79 85]
+false
+----
+Levels: [16 22 24 21 23]
+Slices: [22 24 21 23]
+NewSli: [16 24 21 23]
+false
+----
+Levels: [45 52 53 51 52 54 51]
+Slices: [52 53 51 52 54 51]
+NewSli: [45 53 51 52 54 51]
+false
+----
+Levels: [37 44 43 46 47 47]
+Slices: [44 43 46 47 47]
+NewSli: [37 43 46 47 47]
+false
+----
+Levels: [70 77 80 81 83 84 83 87]
+Slices: [77 80 81 83 84 83 87]
+NewSli: [70 80 81 83 84 83 87]
+false
+----
+Levels: [75 80 77 78 85]
+Slices: [80 77 78 85]
+NewSli: [75 77 78 85]
+false
+----
+Levels: [19 25 25 26 27 30]
+Slices: [25 25 26 27 30]
+NewSli: [19 25 26 27 30]
+false
+----
+Levels: [35 41 41 42 44 46 49 48]
+Slices: [41 41 42 44 46 49 48]
+NewSli: [35 41 42 44 46 49 48]
+false
+----
+Levels: [37 44 46 46 46]
+Slices: [44 46 46 46]
+NewSli: [37 46 46 46]
+false
+----
+Levels: [30 35 36 37 37 41]
+Slices: [35 36 37 37 41]
+NewSli: [30 36 37 37 41]
+false
+----
+Levels: [5 12 14 14 19]
+Slices: [12 14 14 19]
+NewSli: [5 14 14 19]
+false
+----
+Levels: [4 11 13 17 20 21 23 25]
+Slices: [11 13 17 20 21 23 25]
+NewSli: [4 13 17 20 21 23 25]
+false
+----
+Levels: [20 25 28 29 33 35 33]
+Slices: [25 28 29 33 35 33]
+NewSli: [20 28 29 33 35 33]
+false
+----
+Levels: [41 46 48 49 50 54 54]
+Slices: [46 48 49 50 54 54]
+NewSli: [41 48 49 50 54 54]
+false
+----
+Levels: [67 73 77 80 81 83 85 89]
+Slices: [73 77 80 81 83 85 89]
+NewSli: [67 77 80 81 83 85 89]
+false
+----
+Levels: [10 15 18 19 23 26 27 33]
+Slices: [15 18 19 23 26 27 33]
+NewSli: [10 18 19 23 26 27 33]
+false
+----
+Levels: [46 52 54 59 61 63]
+Slices: [52 54 59 61 63]
+NewSli: [46 54 59 61 63]
+false
+----
+Levels: [6 13 19 20 18]
+Slices: [13 19 20 18]
+NewSli: [6 19 20 18]
+false
+----
+Levels: [19 24 29 32 33 34 34]
+Slices: [24 29 32 33 34 34]
+NewSli: [19 29 32 33 34 34]
+false
+----
+Levels: [59 66 68 70 77 79 80 84]
+Slices: [66 68 70 77 79 80 84]
+NewSli: [59 68 70 77 79 80 84]
+false
+----
+Levels: [40 47 50 57 64]
+Slices: [47 50 57 64]
+NewSli: [40 50 57 64]
+false
+----
+Levels: [42 40 39 38 36 37]
+Slices: [42 40 39 38 37]
+NewSli: []
+----
+----
+Levels: [95 93 91 90 90]
+Slices: [95 93 91 90]
+NewSli: []
+----
+----
+Levels: [44 42 39 38 35 34 32 28]
+Slices: [44 42 39 38 35 34 28]
+NewSli: [44 42 39 38 35 34 32]
+----
+true
+----
+Levels: [73 70 68 66 61]
+Slices: [73 70 68 61]
+NewSli: [73 70 68 66]
+----
+true
+----
+Levels: [19 16 17 15 14 12 11]
+Slices: [19 17 15 14 12 11]
+NewSli: []
+----
+----
+Levels: [29 28 31 30 31]
+Slices: [29 31 30 31]
+NewSli: [29 28 30 31]
+false
+----
+Levels: [55 53 50 51 50 48 48]
+Slices: [55 53 51 50 48 48]
+NewSli: [55 53 50 50 48 48]
+false
+----
+Levels: [98 97 96 94 92 95 91]
+Slices: [98 97 96 94 95 91]
+NewSli: [98 97 96 94 92 91]
+true
+----
+Levels: [15 14 13 11 13 10 4]
+Slices: [15 14 13 13 10 4]
+NewSli: [15 14 13 11 10 4]
+false
+----
+Levels: [19 16 15 14 14 11 10]
+Slices: [19 16 15 14 11 10]
+NewSli: []
+----
+----
+Levels: [38 35 34 33 31 30 30 31]
+Slices: [38 35 34 33 31 30 31]
+NewSli: [38 35 34 33 31 30 31]
+false
+----
+Levels: [47 44 43 43 43]
+Slices: [47 44 43 43]
+NewSli: [47 44 43 43]
+false
+----
+Levels: [24 21 18 18 17 16 14 10]
+Slices: [24 21 18 17 16 14 10]
+NewSli: [24 21 18 17 16 14 10]
+false
+----
+Levels: [93 92 90 90 88 82]
+Slices: [93 92 90 88 82]
+NewSli: [93 92 90 88 82]
+false
+----
+Levels: [75 73 72 68 65 63]
+Slices: [75 73 68 65 63]
+NewSli: [75 73 72 65 63]
+false
+----
+Levels: [77 76 75 72 71 69 65 68]
+Slices: [77 76 75 72 71 65 68]
+NewSli: [77 76 75 72 71 69 68]
+true
+----
+Levels: [80 79 78 74 73 73]
+Slices: [80 79 74 73 73]
+NewSli: [80 79 78 73 73]
+false
+----
+Levels: [39 37 34 30 29 25]
+Slices: [39 37 30 29 25]
+NewSli: [39 37 34 29 25]
+false
+----
+Levels: [17 16 14 10 3]
+Slices: [17 16 10 3]
+NewSli: [17 16 14 3]
+false
+----
+Levels: [37 34 28 26 24]
+Slices: [37 28 26 24]
+NewSli: [37 34 26 24]
+false
+----
+Levels: [79 77 74 68 69]
+Slices: [79 77 68 69]
+NewSli: [79 77 74 69]
+false
+----
+Levels: [75 73 71 64 62 61 60 60]
+Slices: [75 73 64 62 61 60 60]
+NewSli: [75 73 71 62 61 60 60]
+false
+----
+Levels: [19 17 15 8 4]
+Slices: [19 17 8 4]
+NewSli: [19 17 15 4]
+false
+----
+Levels: [25 24 18 17 14 8]
+Slices: [25 18 17 14 8]
+NewSli: [25 24 17 14 8]
+false
+----
+Levels: [54 55 52 50 48 47 46 43]
+Slices: [54 52 50 48 47 46 43]
+NewSli: []
+----
+----
+Levels: [11 14 12 11 8 7 6 9]
+Slices: [11 12 11 8 7 6 9]
+NewSli: [11 14 11 8 7 6 9]
+false
+----
+Levels: [93 95 94 92 90 89 89]
+Slices: [93 94 92 90 89 89]
+NewSli: [93 95 92 90 89 89]
+false
+----
+Levels: [21 24 21 18 14]
+Slices: [21 21 18 14]
+NewSli: [21 24 18 14]
+false
+----
+Levels: [13 14 13 11 9 3]
+Slices: [13 13 11 9 3]
+NewSli: [13 14 11 9 3]
+false
+----
+Levels: [66 67 66 64 62 61 63 62]
+Slices: [66 66 64 62 61 63 62]
+NewSli: [66 67 64 62 61 63 62]
+false
+----
+Levels: [27 29 31 29 28 26 28]
+Slices: [27 29 29 28 26 28]
+NewSli: [27 29 31 28 26 28]
+false
+----
+Levels: [76 77 79 76 73 73]
+Slices: [76 77 76 73 73]
+NewSli: [76 77 79 73 73]
+false
+----
+Levels: [33 36 33 34 33 30 26]
+Slices: [33 33 34 33 30 26]
+NewSli: [33 36 34 33 30 26]
+false
+----
+Levels: [71 72 69 68 66 69 66 60]
+Slices: [71 69 68 66 69 66 60]
+NewSli: [71 72 68 66 69 66 60]
+false
+----
+Levels: [73 75 74 71 71 68]
+Slices: [73 74 71 71 68]
+NewSli: [73 75 71 71 68]
+false
+----
+Levels: [8 11 9 8 7 7 6 8]
+Slices: [8 9 8 7 7 6 8]
+NewSli: [8 11 8 7 7 6 8]
+false
+----
+Levels: [21 23 23 21 18 18]
+Slices: [21 23 21 18 18]
+NewSli: [21 23 21 18 18]
+false
+----
+Levels: [91 94 91 88 86 86 83 79]
+Slices: [91 91 88 86 86 83 79]
+NewSli: [91 94 88 86 86 83 79]
+false
+----
+Levels: [72 73 70 67 67 66 63 58]
+Slices: [72 70 67 67 66 63 58]
+NewSli: [72 73 67 67 66 63 58]
+false
+----
+Levels: [45 48 44 42 40 37]
+Slices: [45 44 42 40 37]
+NewSli: []
+----
+----
+Levels: [41 44 40 39 36 37]
+Slices: [41 40 39 36 37]
+NewSli: [41 44 39 36 37]
+false
+----
+Levels: [58 60 56 54 53 52 52]
+Slices: [58 56 54 53 52 52]
+NewSli: [58 60 54 53 52 52]
+false
+----
+Levels: [74 77 73 72 69 68 64]
+Slices: [74 73 72 69 68 64]
+NewSli: [74 77 72 69 68 64]
+false
+----
+Levels: [16 18 17 13 10 8 2]
+Slices: [16 17 13 10 8 2]
+NewSli: [16 18 13 10 8 2]
+false
+----
+Levels: [94 95 93 92 91 85 82 80]
+Slices: [94 93 92 91 85 82 80]
+NewSli: [94 95 92 91 85 82 80]
+false
+----
+Levels: [88 91 86 85 84 83 86]
+Slices: [88 86 85 84 83 86]
+NewSli: [88 91 85 84 83 86]
+false
+----
+Levels: [54 56 55 50 47 47]
+Slices: [54 55 50 47 47]
+NewSli: [54 56 50 47 47]
+false
+----
+Levels: [49 50 47 44 37 33]
+Slices: [49 47 44 37 33]
+NewSli: [49 50 44 37 33]
+false
+----
+Levels: [30 33 32 29 22 21 18 13]
+Slices: [30 32 29 22 21 18 13]
+NewSli: [30 33 29 22 21 18 13]
+false
+----
+Levels: [67 67 66 64 63 61 59]
+Slices: [67 66 64 63 61 59]
+NewSli: []
+----
+----
+Levels: [39 39 36 35 34 31 32]
+Slices: [39 36 35 34 31 32]
+NewSli: [39 36 35 34 31 32]
+false
+----
+Levels: [24 24 21 19 17 16 15 15]
+Slices: [24 21 19 17 16 15 15]
+NewSli: [24 21 19 17 16 15 15]
+false
+----
+Levels: [66 66 64 63 62 61 57]
+Slices: [66 64 63 62 61 57]
+NewSli: [66 64 63 62 61 57]
+false
+----
+Levels: [88 88 85 83 82 81 78 73]
+Slices: [88 85 83 82 81 78 73]
+NewSli: [88 85 83 82 81 78 73]
+false
+----
+Levels: [37 37 34 33 30 32 29]
+Slices: [37 34 33 30 32 29]
+NewSli: [37 34 33 30 32 29]
+false
+----
+Levels: [32 32 29 27 28 31]
+Slices: [32 29 27 28 31]
+NewSli: [32 29 27 28 31]
+false
+----
+Levels: [45 45 43 40 39 42 40 40]
+Slices: [45 43 40 39 42 40 40]
+NewSli: [45 43 40 39 42 40 40]
+false
+----
+Levels: [7 7 5 7 6 2]
+Slices: [7 5 7 6 2]
+NewSli: [7 5 7 6 2]
+false
+----
+Levels: [9 9 8 11 4]
+Slices: [9 8 11 4]
+NewSli: [9 8 11 4]
+false
+----
+Levels: [36 36 34 32 31 28 28 25]
+Slices: [36 34 32 31 28 28 25]
+NewSli: [36 34 32 31 28 28 25]
+false
+----
+Levels: [35 35 35 32 31 33]
+Slices: [35 35 32 31 33]
+NewSli: [35 35 32 31 33]
+false
+----
+Levels: [44 44 44 41 38 37 37]
+Slices: [44 44 41 38 37 37]
+NewSli: [44 44 41 38 37 37]
+false
+----
+Levels: [47 47 46 44 42 41 41 37]
+Slices: [47 46 44 42 41 41 37]
+NewSli: [47 46 44 42 41 41 37]
+false
+----
+Levels: [29 29 27 27 25 24 19]
+Slices: [29 27 27 25 24 19]
+NewSli: [29 27 27 25 24 19]
+false
+----
+Levels: [50 50 46 44 43 41]
+Slices: [50 46 44 43 41]
+NewSli: [50 46 44 43 41]
+false
+----
+Levels: [95 95 91 90 87 90]
+Slices: [95 91 90 87 90]
+NewSli: [95 91 90 87 90]
+false
+----
+Levels: [21 21 20 19 18 17 13 13]
+Slices: [21 20 19 18 17 13 13]
+NewSli: [21 20 19 18 17 13 13]
+false
+----
+Levels: [54 54 53 50 46 42]
+Slices: [54 53 50 46 42]
+NewSli: [54 53 50 46 42]
+false
+----
+Levels: [49 49 48 44 37]
+Slices: [49 48 44 37]
+NewSli: [49 48 44 37]
+false
+----
+Levels: [80 80 78 73 71]
+Slices: [80 78 73 71]
+NewSli: [80 78 73 71]
+false
+----
+Levels: [43 43 41 39 34 37]
+Slices: [43 41 39 34 37]
+NewSli: [43 41 39 34 37]
+false
+----
+Levels: [22 22 20 19 12 12]
+Slices: [22 20 19 12 12]
+NewSli: [22 20 19 12 12]
+false
+----
+Levels: [42 42 36 34 30]
+Slices: [42 36 34 30]
+NewSli: [42 36 34 30]
+false
+----
+Levels: [87 87 82 81 75]
+Slices: [87 82 81 75]
+NewSli: [87 82 81 75]
+false
+----
+Levels: [41 37 34 33 31 30]
+Slices: [37 34 33 31 30]
+NewSli: []
+----
+----
+Levels: [45 41 38 35 36]
+Slices: [41 38 35 36]
+NewSli: [45 38 35 36]
+false
+----
+Levels: [60 56 55 54 54]
+Slices: [56 55 54 54]
+NewSli: [60 55 54 54]
+false
+----
+Levels: [60 56 53 51 50 48 44]
+Slices: [56 53 51 50 48 44]
+NewSli: [60 53 51 50 48 44]
+false
+----
+Levels: [59 55 53 50 44]
+Slices: [55 53 50 44]
+NewSli: [59 53 50 44]
+false
+----
+Levels: [41 37 36 34 31 33 31 30]
+Slices: [37 36 34 31 33 31 30]
+NewSli: [41 36 34 31 33 31 30]
+false
+----
+Levels: [15 11 8 7 5 8 11]
+Slices: [11 8 7 5 8 11]
+NewSli: [15 8 7 5 8 11]
+false
+----
+Levels: [55 51 52 51 50 50]
+Slices: [51 52 51 50 50]
+NewSli: [55 52 51 50 50]
+false
+----
+Levels: [57 53 51 49 50 46]
+Slices: [53 51 49 50 46]
+NewSli: [57 51 49 50 46]
+false
+----
+Levels: [61 57 55 53 55 53 46]
+Slices: [57 55 53 55 53 46]
+NewSli: [61 55 53 55 53 46]
+false
+----
+Levels: [49 45 43 43 42 40 39]
+Slices: [45 43 43 42 40 39]
+NewSli: [49 43 43 42 40 39]
+false
+----
+Levels: [87 83 82 82 81 79 82]
+Slices: [83 82 82 81 79 82]
+NewSli: [87 82 82 81 79 82]
+false
+----
+Levels: [62 58 56 54 51 51 51]
+Slices: [58 56 54 51 51 51]
+NewSli: [62 56 54 51 51 51]
+false
+----
+Levels: [15 11 11 10 8 4]
+Slices: [11 11 10 8 4]
+NewSli: [15 11 10 8 4]
+false
+----
+Levels: [23 19 17 14 13 13 7]
+Slices: [19 17 14 13 13 7]
+NewSli: [23 17 14 13 13 7]
+false
+----
+Levels: [79 75 71 70 69 67 66]
+Slices: [75 71 70 69 67 66]
+NewSli: [79 71 70 69 67 66]
+false
+----
+Levels: [90 86 85 81 78 76 79]
+Slices: [86 85 81 78 76 79]
+NewSli: [90 85 81 78 76 79]
+false
+----
+Levels: [44 40 37 33 30 30]
+Slices: [40 37 33 30 30]
+NewSli: [44 37 33 30 30]
+false
+----
+Levels: [80 76 75 71 67]
+Slices: [76 75 71 67]
+NewSli: [80 75 71 67]
+false
+----
+Levels: [31 27 25 23 19 16 13 6]
+Slices: [27 25 23 19 16 13 6]
+NewSli: [31 25 23 19 16 13 6]
+false
+----
+Levels: [25 21 15 12 10]
+Slices: [21 15 12 10]
+NewSli: [25 15 12 10]
+false
+----
+Levels: [30 26 19 18 15 13 15]
+Slices: [26 19 18 15 13 15]
+NewSli: [30 19 18 15 13 15]
+false
+----
+Levels: [28 24 22 21 18 12 12]
+Slices: [24 22 21 18 12 12]
+NewSli: [28 22 21 18 12 12]
+false
+----
+Levels: [97 93 86 85 81]
+Slices: [93 86 85 81]
+NewSli: [97 86 85 81]
+false
+----
+Levels: [37 33 28 26 24 21 16]
+Slices: [33 28 26 24 21 16]
+NewSli: [37 28 26 24 21 16]
+false
+----
+Levels: [68 61 60 58 56 53 52]
+Slices: [61 60 58 56 53 52]
+NewSli: []
+----
+----
+Levels: [62 57 54 51 54]
+Slices: [57 54 51 54]
+NewSli: [62 54 51 54]
+false
+----
+Levels: [33 26 24 22 19 19]
+Slices: [26 24 22 19 19]
+NewSli: [33 24 22 19 19]
+false
+----
+Levels: [83 76 74 71 68 67 63]
+Slices: [76 74 71 68 67 63]
+NewSli: [83 74 71 68 67 63]
+false
+----
+Levels: [94 89 88 85 83 81 74]
+Slices: [89 88 85 83 81 74]
+NewSli: [94 88 85 83 81 74]
+false
+----
+Levels: [76 69 68 65 63 66 65]
+Slices: [69 68 65 63 66 65]
+NewSli: [76 68 65 63 66 65]
+false
+----
+Levels: [77 70 68 65 63 66 69]
+Slices: [70 68 65 63 66 69]
+NewSli: [77 68 65 63 66 69]
+false
+----
+Levels: [49 44 41 39 41 38 38]
+Slices: [44 41 39 41 38 38]
+NewSli: [49 41 39 41 38 38]
+false
+----
+Levels: [28 23 25 22 18]
+Slices: [23 25 22 18]
+NewSli: [28 25 22 18]
+false
+----
+Levels: [64 57 60 57 56 50]
+Slices: [57 60 57 56 50]
+NewSli: [64 60 57 56 50]
+false
+----
+Levels: [93 87 87 84 82 81]
+Slices: [87 87 84 82 81]
+NewSli: [93 87 84 82 81]
+false
+----
+Levels: [25 19 18 18 20]
+Slices: [19 18 18 20]
+NewSli: [25 18 18 20]
+false
+----
+Levels: [78 71 71 68 65 64 64]
+Slices: [71 71 68 65 64 64]
+NewSli: [78 71 68 65 64 64]
+false
+----
+Levels: [76 70 68 65 65 64 60]
+Slices: [70 68 65 65 64 60]
+NewSli: [76 68 65 65 64 60]
+false
+----
+Levels: [18 11 11 10 5]
+Slices: [11 11 10 5]
+NewSli: [18 11 10 5]
+false
+----
+Levels: [29 23 19 18 16]
+Slices: [23 19 18 16]
+NewSli: [29 19 18 16]
+false
+----
+Levels: [92 86 82 79 78 79]
+Slices: [86 82 79 78 79]
+NewSli: [92 82 79 78 79]
+false
+----
+Levels: [79 72 70 68 64 62 62]
+Slices: [72 70 68 64 62 62]
+NewSli: [79 70 68 64 62 62]
+false
+----
+Levels: [34 27 23 21 19 18 17 13]
+Slices: [27 23 21 19 18 17 13]
+NewSli: [34 23 21 19 18 17 13]
+false
+----
+Levels: [77 72 68 66 61]
+Slices: [72 68 66 61]
+NewSli: [77 68 66 61]
+false
+----
+Levels: [22 17 14 9 6 5 2 1]
+Slices: [17 14 9 6 5 2 1]
+NewSli: [22 14 9 6 5 2 1]
+false
+----
+Levels: [71 65 62 57 55 52 53]
+Slices: [65 62 57 55 52 53]
+NewSli: [71 62 57 55 52 53]
+false
+----
+Levels: [36 30 29 26 20 20]
+Slices: [30 29 26 20 20]
+NewSli: [36 29 26 20 20]
+false
+----
+Levels: [32 25 20 18 14]
+Slices: [25 20 18 14]
+NewSli: [32 20 18 14]
+false
+----
+Levels: [55 49 48 46 40 38 32]
+Slices: [49 48 46 40 38 32]
+NewSli: [55 48 46 40 38 32]
+false
+----
+Levels: [66 65 67 69 68 71 73 76]
+Slices: [66 67 69 68 71 73 76]
+NewSli: [66 65 69 68 71 73 76]
+false
+----
+Levels: [94 92 98 99 96]
+Slices: [94 98 99 96]
+NewSli: [94 92 99 96]
+false
+----
+Levels: [23 25 28 30 33 34 31]
+Slices: [23 25 28 30 33 31]
+NewSli: [23 25 28 30 33 34]
+----
+true
+----
+Levels: [49 48 45 43 41 35 29]
+Slices: [49 48 45 43 35 29]
+NewSli: [49 48 45 43 41 29]
+false
+----
+Levels: [29 35 38 39 41 43 44 44]
+Slices: [35 38 39 41 43 44 44]
+NewSli: [29 38 39 41 43 44 44]
+false
+----
+Levels: [35 39 42 49 49]
+Slices: [39 42 49 49]
+NewSli: [35 42 49 49]
+false
+----
+Levels: [11 15 17 20 24]
+Slices: [15 17 20 24]
+NewSli: [11 17 20 24]
+false
+----
+Levels: [61 61 68 69 70 73 74 74]
+Slices: [61 68 69 70 73 74 74]
+NewSli: [61 68 69 70 73 74 74]
+false
+----
+Levels: [67 64 63 60 57 56 50 50]
+Slices: [67 64 63 60 57 50 50]
+NewSli: [67 64 63 60 57 56 50]
+false
+----
+Levels: [19 23 25 27 30 34 35 32]
+Slices: [23 25 27 30 34 35 32]
+NewSli: [19 25 27 30 34 35 32]
+false
+----
+Levels: [45 46 45 43 40 42 41 37]
+Slices: [45 45 43 40 42 41 37]
+NewSli: [45 46 43 40 42 41 37]
+false
+----
+Levels: [30 30 34 35 38 41 45]
+Slices: [30 34 35 38 41 45]
+NewSli: [30 34 35 38 41 45]
+false
+----
+Levels: [48 48 46 44 39 36 32]
+Slices: [48 46 44 39 36 32]
+NewSli: [48 46 44 39 36 32]
+false
+----
+Levels: [45 45 47 49 50 54 59]
+Slices: [45 47 49 50 54 59]
+NewSli: [45 47 49 50 54 59]
+false
+----
+Levels: [47 46 49 53 56 58 58]
+Slices: [47 49 53 56 58 58]
+NewSli: [47 46 53 56 58 58]
+false
+----
+Levels: [3 2 4 10 14]
+Slices: [3 4 10 14]
+NewSli: [3 2 10 14]
+false
+----
+Levels: [91 92 90 90 87 86 84]
+Slices: [91 90 90 87 86 84]
+NewSli: [91 92 90 87 86 84]
+false
+----
+Levels: [14 18 20 22 24 26 27 28]
+Slices: [18 20 22 24 26 27 28]
+NewSli: []
+----
+----
+Levels: [73 73 80 83 85 91]
+Slices: [73 80 83 85 91]
+NewSli: [73 80 83 85 91]
+false
+----
+Levels: [59 62 60 57 55 52 51 54]
+Slices: [59 60 57 55 52 51 54]
+NewSli: [59 62 57 55 52 51 54]
+false
+----
+Levels: [65 66 63 61 60 59 54 49]
+Slices: [65 63 61 60 59 54 49]
+NewSli: [65 66 61 60 59 54 49]
+false
+----
+Levels: [53 53 56 56 60]
+Slices: [53 56 56 60]
+NewSli: [53 56 56 60]
+false
+----
+Levels: [16 14 17 18 17 16]
+Slices: [16 17 18 17 16]
+NewSli: [16 14 18 17 16]
+false
+----
+Levels: [77 77 79 82 84 86 86 89]
+Slices: [77 79 82 84 86 86 89]
+NewSli: [77 79 82 84 86 86 89]
+false
+----
+Levels: [89 86 86 89 92 94]
+Slices: [89 86 89 92 94]
+NewSli: [89 86 89 92 94]
+false
+----
+Levels: [20 16 11 8 9]
+Slices: [16 11 8 9]
+NewSli: [20 11 8 9]
+false
+----
+Levels: [84 84 86 83 80 78 81]
+Slices: [84 86 83 80 78 81]
+NewSli: [84 86 83 80 78 81]
+false
+----
+Levels: [21 27 29 35 38 40 38]
+Slices: [27 29 35 38 40 38]
+NewSli: [21 29 35 38 40 38]
+false
+----
+Levels: [84 80 78 73 72 68]
+Slices: [80 78 73 72 68]
+NewSli: [84 78 73 72 68]
+false
+----
+Levels: [19 21 28 30 27]
+Slices: [19 28 30 27]
+NewSli: [19 21 30 27]
+false
+----
+Levels: [53 51 50 47 46 44 41 43]
+Slices: [53 51 50 47 46 44 43]
+NewSli: []
+----
+----
+Levels: [42 43 43 40 39 33]
+Slices: [42 43 40 39 33]
+NewSli: [42 43 40 39 33]
+false
+----
+Levels: [10 10 14 17 20 21 23]
+Slices: [10 14 17 20 21 23]
+NewSli: [10 14 17 20 21 23]
+false
+----
+Levels: [81 81 86 88 89 92 95]
+Slices: [81 86 88 89 92 95]
+NewSli: [81 86 88 89 92 95]
+false
+----
+Levels: [41 34 33 31 30 26]
+Slices: [34 33 31 30 26]
+NewSli: [41 33 31 30 26]
+false
+----
+Levels: [38 38 35 38 39 42 46]
+Slices: [38 35 38 39 42 46]
+NewSli: [38 35 38 39 42 46]
+false
+----
+Levels: [54 54 51 54 53 48]
+Slices: [54 51 54 53 48]
+NewSli: [54 51 54 53 48]
+false
+----
+Levels: [75 69 66 60 63]
+Slices: [69 66 60 63]
+NewSli: [75 66 60 63]
+false
+----
+Levels: [84 84 87 88 88]
+Slices: [84 87 88 88]
+NewSli: [84 87 88 88]
+false
+----
+Levels: [23 22 20 19 16 12 11 10]
+Slices: [23 22 20 19 12 11 10]
+NewSli: [23 22 20 19 16 11 10]
+false
+----
+Levels: [14 12 12 10 9 8 7 7]
+Slices: [14 12 10 9 8 7 7]
+NewSli: [14 12 10 9 8 7 7]
+false
+----
+Levels: [81 78 74 71 71]
+Slices: [81 74 71 71]
+NewSli: [81 78 71 71]
+false
+----
+Levels: [88 89 89 90 91 95]
+Slices: [88 89 90 91 95]
+NewSli: [88 89 90 91 95]
+false
+----
+Levels: [84 87 86 83 83 82 81 81]
+Slices: [84 86 83 83 82 81 81]
+NewSli: [84 87 83 83 82 81 81]
+false
+----
+Levels: [89 82 84 82 80 79]
+Slices: [82 84 82 80 79]
+NewSli: [89 84 82 80 79]
+false
+----
+Levels: [3 8 9 12 16 17 17]
+Slices: [8 9 12 16 17 17]
+NewSli: [3 9 12 16 17 17]
+false
+----
+Levels: [98 94 94 91 88]
+Slices: [94 94 91 88]
+NewSli: [98 94 91 88]
+false
+----
+Levels: [19 22 24 26 30 34]
+Slices: [19 22 24 30 34]
+NewSli: [19 22 24 26 34]
+false
+----
+Levels: [46 47 48 49 53 55 57 60]
+Slices: [46 47 48 53 55 57 60]
+NewSli: [46 47 48 49 55 57 60]
+false
+----
+Levels: [68 74 75 77 80 81 82 86]
+Slices: [74 75 77 80 81 82 86]
+NewSli: [68 75 77 80 81 82 86]
+false
+----
+Levels: [37 37 40 39 38]
+Slices: [37 40 39 38]
+NewSli: [37 40 39 38]
+false
+----
+Levels: [73 70 67 63 65]
+Slices: [73 70 63 65]
+NewSli: [73 70 67 65]
+true
+----
+Levels: [38 36 35 32 34 33 29]
+Slices: [38 36 35 34 33 29]
+NewSli: [38 36 35 32 33 29]
+false
+----
+Levels: [30 34 35 36 36 37 36]
+Slices: [34 35 36 36 37 36]
+NewSli: [30 35 36 36 37 36]
+false
+----
+Levels: [22 28 28 31 33 35 37 37]
+Slices: [28 28 31 33 35 37 37]
+NewSli: [22 28 31 33 35 37 37]
+false
+----
+Levels: [65 65 64 61 57]
+Slices: [65 64 61 57]
+NewSli: [65 64 61 57]
+false
+----
+Levels: [35 33 32 30 29 29]
+Slices: [35 33 32 30 29]
+NewSli: []
+----
+----
+Levels: [64 64 64 62 64]
+Slices: [64 64 62 64]
+NewSli: [64 64 62 64]
+false
+----
+Levels: [65 67 66 67 68 71 75]
+Slices: [65 66 67 68 71 75]
+NewSli: [65 67 67 68 71 75]
+false
+----
+Levels: [79 85 85 86 88 90]
+Slices: [85 85 86 88 90]
+NewSli: [79 85 86 88 90]
+false
+----
+Levels: [85 83 84 83 85 85]
+Slices: [85 84 83 85 85]
+NewSli: [85 83 83 85 85]
+false
+----
+Levels: [40 44 45 47 48 50 50]
+Slices: [44 45 47 48 50 50]
+NewSli: [40 45 47 48 50 50]
+false
+----
+Levels: [48 45 47 50 53 56 57]
+Slices: [48 47 50 53 56 57]
+NewSli: [48 45 50 53 56 57]
+false
+----
+Levels: [8 10 13 12 10 10]
+Slices: [8 10 12 10 10]
+NewSli: [8 10 13 10 10]
+false
+----
+Levels: [56 52 51 50 52 51]
+Slices: [52 51 50 52 51]
+NewSli: [56 51 50 52 51]
+false
+----
+Levels: [10 10 13 14 17 21]
+Slices: [10 13 14 17 21]
+NewSli: [10 13 14 17 21]
+false
+----
+Levels: [77 70 67 60 58 54]
+Slices: [70 67 60 58 54]
+NewSli: [77 67 60 58 54]
+false
+----
+Levels: [49 49 46 43 42 41 39 34]
+Slices: [49 46 43 42 41 39 34]
+NewSli: [49 46 43 42 41 39 34]
+false
+----
+Levels: [70 70 68 64 63 63]
+Slices: [70 68 64 63 63]
+NewSli: [70 68 64 63 63]
+false
+----
+Levels: [70 70 74 76 78 81 81]
+Slices: [70 74 76 78 81 81]
+NewSli: [70 74 76 78 81 81]
+false
+----
+Levels: [81 82 81 80 79]
+Slices: [81 81 80 79]
+NewSli: [81 82 80 79]
+false
+----
+Levels: [79 79 78 74 70]
+Slices: [79 78 74 70]
+NewSli: [79 78 74 70]
+false
+----
+Levels: [4 8 10 14 15 18]
+Slices: [8 10 14 15 18]
+NewSli: [4 10 14 15 18]
+false
+----
+Levels: [95 90 87 84 87 85 88]
+Slices: [90 87 84 87 85 88]
+NewSli: [95 87 84 87 85 88]
+false
+----
+Levels: [69 70 73 73 74 76 77]
+Slices: [69 70 73 74 76 77]
+NewSli: []
+----
+----
+Levels: [87 80 78 75 72 69 63]
+Slices: [80 78 75 72 69 63]
+NewSli: [87 78 75 72 69 63]
+false
+----
+Levels: [89 85 82 79 76 71 68]
+Slices: [85 82 79 76 71 68]
+NewSli: [89 82 79 76 71 68]
+false
+----
+Levels: [37 36 35 35 33]
+Slices: [37 36 35 33]
+NewSli: []
+----
+----
+Levels: [21 25 26 31 35]
+Slices: [25 26 31 35]
+NewSli: [21 26 31 35]
+false
+----
+Levels: [40 44 49 51 52]
+Slices: [44 49 51 52]
+NewSli: [40 49 51 52]
+false
+----
+Levels: [43 44 44 47 48 51 54 53]
+Slices: [43 44 47 48 51 54 53]
+NewSli: [43 44 47 48 51 54 53]
+false
+----
+Levels: [79 82 86 87 90 93 95 95]
+Slices: [79 86 87 90 93 95 95]
+NewSli: [79 82 87 90 93 95 95]
+false
+----
+Levels: [12 19 22 27 29 31]
+Slices: [19 22 27 29 31]
+NewSli: [12 22 27 29 31]
+false
+----
+Levels: [19 15 14 13 12 12 8]
+Slices: [15 14 13 12 12 8]
+NewSli: [19 14 13 12 12 8]
+false
+----
+Levels: [56 56 59 61 61 64 64]
+Slices: [56 59 61 61 64 64]
+NewSli: [56 59 61 61 64 64]
+false
+----
+Levels: [36 32 31 26 23 22 19 12]
+Slices: [32 31 26 23 22 19 12]
+NewSli: [36 31 26 23 22 19 12]
+false
+----
+Levels: [62 66 68 71 70 73 74 78]
+Slices: [66 68 71 70 73 74 78]
+NewSli: [62 68 71 70 73 74 78]
+false
+----
+Levels: [18 15 14 12 10 8 4]
+Slices: [18 15 14 12 10 4]
+NewSli: [18 15 14 12 10 8]
+----
+true
+----
+Levels: [76 80 84 87 87]
+Slices: [80 84 87 87]
+NewSli: [76 84 87 87]
+false
+----
+Levels: [52 47 45 42 42 40]
+Slices: [47 45 42 42 40]
+NewSli: [52 45 42 42 40]
+false
+----
+Levels: [46 46 48 55 58 62]
+Slices: [46 48 55 58 62]
+NewSli: [46 48 55 58 62]
+false
+----
+Levels: [20 22 18 16 11]
+Slices: [20 18 16 11]
+NewSli: [20 22 16 11]
+false
+----
+Levels: [81 83 85 88 91 98 98]
+Slices: [81 83 85 88 98 98]
+NewSli: [81 83 85 88 91 98]
+false
+----
+Levels: [37 42 46 47 49 52 59]
+Slices: [42 46 47 49 52 59]
+NewSli: [37 46 47 49 52 59]
+false
+----
+Levels: [60 56 53 52 49 45 43 37]
+Slices: [56 53 52 49 45 43 37]
+NewSli: [60 53 52 49 45 43 37]
+false
+----
+Levels: [73 67 63 62 60]
+Slices: [67 63 62 60]
+NewSli: [73 63 62 60]
+false
+----
+Levels: [52 48 48 45 44 42 39 33]
+Slices: [48 48 45 44 42 39 33]
+NewSli: [52 48 45 44 42 39 33]
+false
+----
+Levels: [24 22 24 27 30 32 35 39]
+Slices: [24 24 27 30 32 35 39]
+NewSli: [24 22 27 30 32 35 39]
+false
+----
+Levels: [64 59 57 55 55]
+Slices: [59 57 55 55]
+NewSli: [64 57 55 55]
+false
+----
+Levels: [76 77 78 83 86 91]
+Slices: [76 77 83 86 91]
+NewSli: [76 77 78 86 91]
+false
+----
+Levels: [68 65 66 65 67]
+Slices: [68 66 65 67]
+NewSli: [68 65 65 67]
+false
+----
+Levels: [98 98 96 93 87 84 84]
+Slices: [98 96 93 87 84 84]
+NewSli: [98 96 93 87 84 84]
+false
+----
+Levels: [77 77 80 77 84]
+Slices: [77 80 77 84]
+NewSli: [77 80 77 84]
+false
+----
+Levels: [88 84 83 82 83 81 76]
+Slices: [84 83 82 83 81 76]
+NewSli: [88 83 82 83 81 76]
+false
+----
+Levels: [54 52 53 53 54 58]
+Slices: [54 53 53 54 58]
+NewSli: [54 52 53 54 58]
+false
+----
+Levels: [34 41 44 47 50 49 49]
+Slices: [41 44 47 50 49 49]
+NewSli: [34 44 47 50 49 49]
+false
+----
+Levels: [51 55 58 57 59 56]
+Slices: [55 58 57 59 56]
+NewSli: [51 58 57 59 56]
+false
+----
+Levels: [59 53 56 53 50 46]
+Slices: [53 56 53 50 46]
+NewSli: [59 56 53 50 46]
+false
+----
+Levels: [39 43 44 44 45 45]
+Slices: [43 44 44 45 45]
+NewSli: [39 44 44 45 45]
+false
+----
+Levels: [84 84 85 87 88 94 96 94]
+Slices: [84 85 87 88 94 96 94]
+NewSli: [84 85 87 88 94 96 94]
+false
+----
+Levels: [28 24 23 21 18 16 14]
+Slices: [24 23 21 18 16 14]
+NewSli: []
+----
+----
+Levels: [52 49 46 43 41 38 34 30]
+Slices: [52 49 46 43 41 34 30]
+NewSli: [52 49 46 43 41 38 30]
+false
+----
+Levels: [45 51 53 52 55 62]
+Slices: [51 53 52 55 62]
+NewSli: [45 53 52 55 62]
+false
+----
+Levels: [86 82 81 78 74 72 70 71]
+Slices: [82 81 78 74 72 70 71]
+NewSli: [86 81 78 74 72 70 71]
+false
+----
+Levels: [63 67 70 72 69 71 71]
+Slices: [67 70 72 69 71 71]
+NewSli: [63 70 72 69 71 71]
+false
+----
+Levels: [28 24 27 24 21 22]
+Slices: [24 27 24 21 22]
+NewSli: [28 27 24 21 22]
+false
+----
+Levels: [39 43 44 46 48 48 51 58]
+Slices: [43 44 46 48 48 51 58]
+NewSli: [39 44 46 48 48 51 58]
+false
+----
+Levels: [11 11 13 12 11 10 8 4]
+Slices: [11 13 12 11 10 8 4]
+NewSli: [11 13 12 11 10 8 4]
+false
+----
+Levels: [91 88 87 85 82 80 80 73]
+Slices: [91 88 87 85 82 80 73]
+NewSli: [91 88 87 85 82 80 73]
+false
+----
+Levels: [56 55 58 61 64 66 70 72]
+Slices: [56 58 61 64 66 70 72]
+NewSli: [56 55 61 64 66 70 72]
+false
+----
+Levels: [45 40 43 41 38 37 34 34]
+Slices: [40 43 41 38 37 34 34]
+NewSli: [45 43 41 38 37 34 34]
+false
+From: 2000
+Safe: 631
+Damper Safe: 663
