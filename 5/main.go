@@ -21,6 +21,7 @@ func main() {
 	myMap := make(map[int][]int)
 
 	var counter int
+	var counterWithOrder int
 
 	for fileScanner.Scan() {
 		txt := fileScanner.Text()
@@ -55,16 +56,13 @@ func main() {
 				}
 				checkParts(numbers, myMap)
 				if checkParts(numbers, myMap) {
-					// middle := numbers[(len(numbers)-1)/2]
-					// fm
-					//					counter += middle
+					middle := numbers[(len(numbers)-1)/2]
+					counter += middle
 
 				} else {
-					fmt.Println(numbers)
 					ordered := orderFailedParts(numbers, myMap)
-					fmt.Println(ordered)
 					middle := ordered[(len(ordered)-1)/2]
-					counter += middle
+					counterWithOrder += middle
 
 				}
 			}
@@ -74,6 +72,7 @@ func main() {
 	}
 
 	fmt.Println(counter)
+	fmt.Println(counterWithOrder)
 
 }
 
